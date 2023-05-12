@@ -20,5 +20,15 @@ The Object Detection Dataset can be found [here](https://drive.google.com/file/d
  
 The objective of this part is to detect signatures in the given images using the training set and report the results on the testing set.
 
+# Requirements
+- Python 3.x
+- TensorFlow 2.x
+- Keras
+# Usage
+To use the datasets for each part, please follow the links provided in the section above.
+
+# Results
+After training and testing the Siamese model for signature verification and object detection, the test accuracy and detection accuracy can be reported in this section.
+
 # Conclusion
-This project aims to help develop signature detection and verification methods to improve security measures. The datasets provided in this project can be used to create and train models for signature verification and object detection tasks.
+This project aims to help develop signature detection and verification methods to improve security measures. The datasets provided in this project can be used to create and train models for signature verification and object detection tasks. Please feel free to fork and contribute to this project.
